@@ -1,0 +1,10 @@
+./imgs/all/landmark_aligned_face.464.11098536056_b8f250b5f7_o.jpg 0.9592866
+./imgs/all/landmark_aligned_face.464.11098648543_533b10d5fb_o.jpg 0.9632595
+./imgs/all/landmark_aligned_face.464.11100366805_5570f9ef35_o.jpg 0.87499607
+./imgs/all/landmark_aligned_face.464.11100452494_24decb2d73_o.jpg 0.8632109
+./imgs/all/landmark_aligned_face.465.11098536056_b8f250b5f7_o.jpg 0.89319825
+./imgs/all/landmark_aligned_face.466.11098648543_533b10d5fb_o.jpg 0.92428476
+./imgs/all/landmark_aligned_face.466.11106526875_4cb078aa01_o.jpg 0.94200855
+./imgs/all/landmark_aligned_face.466.11106570936_6afca70f2c_o.jpg 0.93168247
+./imgs/all/landmark_aligned_face.466.11106586114_e5f78537a9_o.jpg 0.94396156
+./imgs/all/landmark_aligned_face.467.11101249874_1a38e76cd4_o.jpg 0.7871594
